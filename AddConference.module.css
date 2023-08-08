@@ -1,0 +1,25 @@
+.addConference {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+  margin-top: 100px;
+}
+
+.cardHeader {
+  background-color: #f0f0f0;
+  padding: 1rem;
+}
+
+.successMsg {
+  color: green;
+  margin-top: 1rem;
+}
+
+.cardBody {
+  padding: 2rem;
+  border: 1px solid gray;
+  border-radius: 8px;
+  width: 400px;
+}
